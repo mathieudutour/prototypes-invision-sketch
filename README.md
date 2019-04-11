@@ -7,7 +7,7 @@
 <div align="center">
   <strong>Translate your prototyping links back and forth between Sketch and Invision</strong>
 </div>
-
+<br />
 Not all the features can be exactly translated and when that's the case, the original link will not be removed so that you can manually decide what to do.
 
 ## Installation
