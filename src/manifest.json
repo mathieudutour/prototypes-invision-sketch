@@ -1,0 +1,24 @@
+{
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Invision → Sketch",
+      "identifier": "invision-to-sketch-prototypes.invision-to-sketch",
+      "script": "./invision-to-sketch.js"
+    },
+    {
+      "name": "Sketch → Invision",
+      "identifier": "invision-to-sketch-prototypes.sketch-to-invision",
+      "script": "./sketch-to-invision.js"
+    }
+  ],
+  "menu": {
+    "title": "Prototypes Invision ↔︎ Sketch",
+    "items": [
+      "invision-to-sketch-prototypes.invision-to-sketch",
+      "invision-to-sketch-prototypes.sketch-to-invision"
+    ]
+  }
+}
