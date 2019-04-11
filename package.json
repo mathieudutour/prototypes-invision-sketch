@@ -1,7 +1,7 @@
 {
   "name": "prototypes-invision-sketch",
   "description": "Translate your prototyping links back and forth between Sketch and Invision",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "sketch": ">=49.0"
   },
@@ -23,7 +23,7 @@
     "@skpm/builder": "^0.5.11"
   },
   "author": "mathieudutour <mathieu@dutour.me>",
-  "repository" : {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/mathieudutour/prototypes-invision-sketch.git"
   }
