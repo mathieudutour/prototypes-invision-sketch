@@ -45,23 +45,6 @@ To view the output of your `console.log`, you have a few different options:
 - Use the [`sketch-dev-tools`](https://github.com/skpm/sketch-dev-tools)
 - Run `skpm log` in your Terminal, with the optional `-f` argument (`skpm log -f`) which causes `skpm log` to not stop when the end of logs is reached, but rather to wait for additional data to be appended to the input
 
-### Publishing your plugin
+## License
 
-```bash
-skpm publish <bump>
-```
-
-(where `bump` can be `patch`, `minor` or `major`)
-
-`skpm publish` will create a new release on your GitHub repository and create an appcast file in order for Sketch users to be notified of the update.
-
-You will need to specify a `repository` in the `package.json`:
-
-```diff
-...
-+ "repository" : {
-+   "type": "git",
-+   "url": "git+https://github.com/mathieudutour/prototypes-invision-sketch.git"
-+  }
-...
-```
+MIT
