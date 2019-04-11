@@ -1,6 +1,14 @@
-# Prototypes Invision ↔︎ Sketch
+<h1 align="center">Prototypes Invision ↔︎ Sketch</h1>
 
-Translate your prototyping links back and forth between Sketch and Invision. Not all the features can be exactly translated and when that's the case, the original link will not be removed so that you can manually decide what to do.
+<div align="center">
+  <img src="https://github.com/mathieudutour/prototypes-invision-sketch/blob/master/assets/icon.png?raw=true" />
+</div>
+<br />
+<div align="center">
+  <strong>Translate your prototyping links back and forth between Sketch and Invision</strong>
+</div>
+
+Not all the features can be exactly translated and when that's the case, the original link will not be removed so that you can manually decide what to do.
 
 ## Installation
 
